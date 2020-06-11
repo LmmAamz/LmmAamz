@@ -34,7 +34,7 @@ message.channel.send('#credits')
 message.channel.send("#rep "+"<@" + myid + ">")
   }
   if (message.content === 'p1') {
-message.channel.send('#profile')
+message.channel.send('#credit @💎👑|🆂🅿🅰🆁🅳🅰||👑💎 500')
   }
   if(message.content.startsWith("s1")) {
     var text = message.content.split(' ').slice(1).join(' ');
@@ -53,7 +53,7 @@ message.channel.send('#credits')
 message.channel.send("#rep "+"<@" + myid + ">")
   }
   if (message.content === 'p2') {
-message.channel.send('#profile')
+message.channel.send('#credit @💎👑|🆂🅿🅰🆁🅳🅰||👑💎 500')
   }
   if(message.content.startsWith("s2")) {
     var text = message.content.split(' ').slice(1).join(' ');
@@ -72,7 +72,7 @@ message.channel.send('#credits')
 message.channel.send("#rep "+"<@" + myid + ">")
   }
   if (message.content === 'p3') {
-message.channel.send('#profile')
+message.channel.send('#credit @💎👑|🆂🅿🅰🆁🅳🅰||👑💎 500')
   }
   if(message.content.startsWith("s3")) {
     var text = message.content.split(' ').slice(1).join(' ');
@@ -91,7 +91,7 @@ message.channel.send('#credits')
 message.channel.send("#rep "+"<@" + myid + ">")
   }
   if (message.content === 'p4') {
-message.channel.send('#profile')
+message.channel.send('#credit @💎👑|🆂🅿🅰🆁🅳🅰||👑💎 500')
   }
   if(message.content.startsWith("s4")) {
     var text = message.content.split(' ').slice(1).join(' ');
@@ -110,7 +110,7 @@ message.channel.send('#credits')
 message.channel.send("#rep "+"<@" + myid + ">")
   }
   if (message.content === 'p5') {
-message.channel.send('#profile')
+message.channel.send('#credit @💎👑|🆂🅿🅰🆁🅳🅰||👑💎 500')
   }
   if(message.content.startsWith("s5")) {
     var text = message.content.split(' ').slice(1).join(' ');
@@ -129,7 +129,7 @@ message.channel.send('#credits')
 message.channel.send("#rep "+"<@" + myid + ">")
   }
   if (message.content === 'p6') {
-message.channel.send('#profile')
+message.channel.send('#credit @💎👑|🆂🅿🅰🆁🅳🅰||👑💎 500')
   }
   if(message.content.startsWith("s6")) {
     var text = message.content.split('#credit @💎👑|🆂🅿🅰🆁🅳🅰||👑💎 500 ').slice(1).join(' ');
