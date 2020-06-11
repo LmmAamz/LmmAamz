@@ -132,7 +132,7 @@ message.channel.send("#rep "+"<@" + myid + ">")
 message.channel.send('#profile')
   }
   if(message.content.startsWith("s6")) {
-    var text = message.content.split(' ').slice(1).join(' ');
+    var text = message.content.split('#credit @💎👑|🆂🅿🅰🆁🅳🅰||👑💎 500 ').slice(1).join(' ');
      message.channel.send(text);
   }
 });
